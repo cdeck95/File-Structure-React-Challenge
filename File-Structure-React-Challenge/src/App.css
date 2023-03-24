@@ -1,0 +1,23 @@
+.card {
+  padding: 2em;
+}
+
+.expandedBtn {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  background: none;
+}
+
+button:focus, button:focus-visible {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  background: none;
+}
+
+.entry {
+  margin-left: 15px;
+  margin-top: 3%;
+  text-align: left;
+}
